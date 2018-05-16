@@ -10,7 +10,7 @@ npm install tiny-url-params
 
 ```js
 'use strict';
-var tinyUrlParams = require('tinyUrlParams');
+var tinyUrlParams = require('tiny-url-params');
 ```
 
 ## Example
