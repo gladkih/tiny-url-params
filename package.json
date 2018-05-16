@@ -1,6 +1,6 @@
 {
   "name": "tiny-url-params",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Returns an object with the parameters of the URL.",
   "main": "index.js",
   "files": [
@@ -11,6 +11,10 @@
     "test": "jest --coverage",
     "posttest": "eslint *.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gladkih/tiny-url-params.git"
+  },
   "keywords": [
     "url",
     "params",
@@ -20,9 +24,9 @@
   "author": "Maxim Gladkih",
   "license": "MIT",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/gladkih/tiny-url-params/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/gladkih/tiny-url-params#readme",
   "devDependencies": {
     "eslint-plugin-jest": "^21.5.0",
     "jest": "^22.0.0"
